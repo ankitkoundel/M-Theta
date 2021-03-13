@@ -8,3 +8,5 @@ This is for commit 1 in Feature 1 branch.
 This is commit 1 in feature1 branch
 
 This is commit 2 in feature1 branch.
+
+This is commit 1 in Hotfix branch.
